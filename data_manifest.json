@@ -1,0 +1,12 @@
+{
+  "dataset": "statsbomb-open-data",
+  "raw_path": "data/raw/statsbomb-open-data",
+  "pinned_by": "git-submodule",
+  "raw_commit": "3bfbffe1de5750ebd47d770be0bb924a10cde54f",
+  "scope": {
+    "competition_id": null,
+    "season_id": null,
+    "note": "TBD on Day 2 after inspecting competitions.json"
+  },
+  "created_at": "2026-01-05"
+}

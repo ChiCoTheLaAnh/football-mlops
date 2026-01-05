@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+mlruns/
+*.pyc
+.DS_Store
+
+# ignore generated data
+data/interim/
+data/processed/
+
+# ignore raw data by default, but allow the submodule
+data/raw/*
+!data/raw/
+!data/raw/statsbomb-open-data/
+!data/raw/statsbomb-open-data/**
