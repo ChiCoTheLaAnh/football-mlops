@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: football-mlops-api
+    env: docker
+    plan: free
+    branch: main
+    healthCheckPath: /health
+    dockerfilePath: ./Dockerfile
+    envVars: []
