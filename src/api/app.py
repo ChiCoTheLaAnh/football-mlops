@@ -30,11 +30,11 @@ class XGResponse(BaseModel):
 @app.on_event("startup")
 def load_model():
     global model
-    if not MODEL_PATH.exists():
-        raise RuntimeError(
-            f"Missing model file: {MODEL_PATH}. Run training to create models/xg_baseline.pkl"
-        )
-    model = joblib.load(MODEL_PATH)
+    if MODEL_PATH.exists():
+        model = joblib.load(MODEL_PATH)
+    else:
+        model = None
+
 
 @app.get("/health")
 def health():
