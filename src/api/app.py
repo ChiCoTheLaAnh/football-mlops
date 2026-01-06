@@ -45,6 +45,15 @@ def load_model():
     else:
         winprob = None
 
+@app.get("/")
+def root():
+    return {
+        "service": "football-mlops-api",
+        "status": "running",
+        "docs": "/docs",
+        "health": "/health"
+    }
+
 
 @app.get("/health")
 def health():
