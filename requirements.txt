@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+joblib
+pydantic
+mlflow
+matplotlib
+pyarrow
+duckdb
+pandera
+
+scikit-learn==1.6.1
