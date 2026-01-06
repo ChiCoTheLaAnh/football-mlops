@@ -1,0 +1,76 @@
+competition_id,season_id,competition_name,season_name,country_name
+9,27,1. Bundesliga,2015/2016,Germany
+9,281,1. Bundesliga,2023/2024,Germany
+1267,107,African Cup of Nations,2023,Africa
+16,276,Champions League,1970/1971,Europe
+16,71,Champions League,1971/1972,Europe
+16,277,Champions League,1972/1973,Europe
+16,76,Champions League,1999/2000,Europe
+16,44,Champions League,2003/2004,Europe
+16,37,Champions League,2004/2005,Europe
+16,39,Champions League,2006/2007,Europe
+16,41,Champions League,2008/2009,Europe
+16,21,Champions League,2009/2010,Europe
+16,22,Champions League,2010/2011,Europe
+16,23,Champions League,2011/2012,Europe
+16,24,Champions League,2012/2013,Europe
+16,25,Champions League,2013/2014,Europe
+16,26,Champions League,2014/2015,Europe
+16,27,Champions League,2015/2016,Europe
+16,2,Champions League,2016/2017,Europe
+16,1,Champions League,2017/2018,Europe
+16,4,Champions League,2018/2019,Europe
+223,282,Copa America,2024,South America
+87,279,Copa del Rey,1977/1978,Spain
+87,268,Copa del Rey,1982/1983,Spain
+87,84,Copa del Rey,1983/1984,Spain
+37,4,FA Women's Super League,2018/2019,England
+37,42,FA Women's Super League,2019/2020,England
+37,90,FA Women's Super League,2020/2021,England
+1470,274,FIFA U20 World Cup,1979,International
+43,269,FIFA World Cup,1958,International
+43,270,FIFA World Cup,1962,International
+43,272,FIFA World Cup,1970,International
+43,51,FIFA World Cup,1974,International
+43,54,FIFA World Cup,1986,International
+43,55,FIFA World Cup,1990,International
+43,3,FIFA World Cup,2018,International
+43,106,FIFA World Cup,2022,International
+1238,108,Indian Super league,2021/2022,India
+11,278,La Liga,1973/1974,Spain
+11,37,La Liga,2004/2005,Spain
+11,38,La Liga,2005/2006,Spain
+11,39,La Liga,2006/2007,Spain
+11,40,La Liga,2007/2008,Spain
+11,41,La Liga,2008/2009,Spain
+11,21,La Liga,2009/2010,Spain
+11,22,La Liga,2010/2011,Spain
+11,23,La Liga,2011/2012,Spain
+11,24,La Liga,2012/2013,Spain
+11,25,La Liga,2013/2014,Spain
+11,26,La Liga,2014/2015,Spain
+11,27,La Liga,2015/2016,Spain
+11,2,La Liga,2016/2017,Spain
+11,1,La Liga,2017/2018,Spain
+11,4,La Liga,2018/2019,Spain
+11,42,La Liga,2019/2020,Spain
+11,90,La Liga,2020/2021,Spain
+81,275,Liga Profesional,1981,Argentina
+81,48,Liga Profesional,1997/1998,Argentina
+7,27,Ligue 1,2015/2016,France
+7,108,Ligue 1,2021/2022,France
+7,235,Ligue 1,2022/2023,France
+44,107,Major League Soccer,2023,United States of America
+49,3,NWSL,2018,United States of America
+116,68,North American League,1977,North and Central America
+2,44,Premier League,2003/2004,England
+2,27,Premier League,2015/2016,England
+12,86,Serie A,1986/1987,Italy
+12,27,Serie A,2015/2016,Italy
+55,43,UEFA Euro,2020,Europe
+55,282,UEFA Euro,2024,Europe
+35,75,UEFA Europa League,1988/1989,Europe
+53,106,UEFA Women's Euro,2022,Europe
+53,315,UEFA Women's Euro,2025,Europe
+72,30,Women's World Cup,2019,International
+72,107,Women's World Cup,2023,International
