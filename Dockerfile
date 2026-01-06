@@ -11,4 +11,9 @@ COPY src ./src
 COPY models ./models
 
 EXPOSE 8000
-CMD ["uvicorn", "src.api.app:app", "--host", "0.0.0.0", "--port", "8000"]
+
+# Render/Railway provide the PORT env var dynamically in Docker environments.
+# Fallback to 8000 for local runs.
+ENV PORT=8000
+
+CMD ["sh", "-c", "uvicorn src.api.app:app --host 0.0.0.0 --port ${PORT:-8000}"]
